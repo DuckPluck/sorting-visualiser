@@ -1,0 +1,11 @@
+.sort-visualiser {
+  display: flex;
+  gap: 2px;
+  align-items: flex-end;
+}
+
+.sort-visualiser__bar {
+  width: 5px;
+  background-color: lawngreen;
+  font-size: 0;
+}
